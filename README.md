@@ -94,7 +94,7 @@ Train and save model
 Query the model
 
 
-📁 Project Structure (Example)
+📁 Project Structure 
 .
 ├── main.py
 ├── utils.py
