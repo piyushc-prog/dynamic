@@ -151,19 +151,3 @@ Then follow the prompts:
 └── README.md        # Project documentation
 ```
 
----
-
-# 🔮 Future Improvements
-
-* Add a GUI or web-based interface
-* Support additional NLP models
-* Enhance preprocessing pipeline
-* Introduce evaluation metrics for embeddings
-
----
-
-# 📄 License
-
-This project is open-source and available for modification and distribution.
-
----
