@@ -1,4 +1,4 @@
-# 📌 Project Overview
+# 📌 Project Overview 
 
 This project is a simple and efficient pipeline for training word embedding models using textual data extracted directly from any webpage URL.
 
